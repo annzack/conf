@@ -15,7 +15,7 @@ The Model Engineering College Developer Conference Committee consists of the fol
 A position held by a student who is about to graduate or has graduated having held a prominent role in the community, can be held by an active staff member as well. The role of the mentor is to provide guidance on how to make the event a success on the basis of how to plan and take quick decisions.
 
 #### Event Coordinators
-The main organisations within the developer community get to be represented by their chairs or a single representative who is of a prominent position within the community.
+The collaborating organisations get to be represented by their chairs or a single representative who is of a prominent position within the community.
 As of 2019, these organisations are:
 - IEEE SB MEC represented by Akhil Seshan(CS SBC chair)
 - IETE SF MEC represented by P Gautham Dileep(SF chair)
